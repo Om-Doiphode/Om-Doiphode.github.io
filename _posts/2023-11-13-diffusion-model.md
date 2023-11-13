@@ -275,4 +275,4 @@ This gives the same result we'd get from `text_encoder.text_model.embeddings`
 text_encoder.text_model.embeddings(text_input.input_ids.to(torch_device))
 ```
 
-Refer the notebook for more details.
+Refer the ![notebook](https://github.com/Om-Doiphode/Diffusion/blob/bebb73034aac9a9706477b49f2ae4d5bdf320e0c/Stable_Diffusion.ipynb) for more details.
